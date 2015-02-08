@@ -8,6 +8,8 @@ This is a Java API which wraps the [REST-based Flickr API](http://www.flickr.com
 
 Comments and questions should be sent to the [GitHub Repo](https://github.com/callmeal/Flickr4Java).
 
+This fork includes code changes and additions used by the UnFlicker open source project.
+
 ### Usage
 
 To use the API just construct an instance of the class `com.flickr4java.flickr.test.Flickr` and request the interfaces which you need to work with.  
